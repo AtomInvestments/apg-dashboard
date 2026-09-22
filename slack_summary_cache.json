@@ -1617,6 +1617,17 @@
     "match_confidence": "high",
     "summary": "Buyer call with Will Holly lasted 30 seconds; buyer was engaged but expressed no interest in buying and call was cut short."
   },
+  "C05MP6K9RNV:1790089312.805919": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "XHb5IoLfV9SsJdQaTH8s",
+    "match_confidence": "high",
+    "summary": "Buyer call completed where Joe O'Hanlon's buy box was captured for various property types across Camden, Burlington, Gloucester, Atlantic Counties and specific shore towns."
+  },
   "C06MM4DQZ28:1777658714.176449": {
     "field_updates": {
       "asking_price": 784000,
