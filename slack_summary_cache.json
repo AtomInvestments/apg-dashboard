@@ -1694,6 +1694,28 @@
     "match_confidence": "none",
     "summary": "General instructions for buyer qualification workflow - ask one question per buyer per day about areas, property type, then funding."
   },
+  "C05MP6K9RNV:1790434926.401979": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": null,
+    "match_confidence": "none",
+    "summary": "Automated buyer intelligence report showing 44 profile questions sent to buyers to gather areas, property types, and funding preferences."
+  },
+  "C05MP6K9RNV:1790434926.424249": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": null,
+    "match_confidence": "none",
+    "summary": "Automated reminder message about buyer qualification workflow linking to multiple contacts in GHL."
+  },
   "C06MM4DQZ28:1777658714.176449": {
     "field_updates": {
       "asking_price": 784000,
