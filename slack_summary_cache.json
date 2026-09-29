@@ -1738,6 +1738,39 @@
     "match_confidence": "none",
     "summary": "This is a system notification about qualifying multiple buyers with a standardized question sequence, not actionable information about a specific lead."
   },
+  "C05MP6K9RNV:1790701722.678789": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "kIwWAKoNBAPQoThcnGPk",
+    "match_confidence": "high",
+    "summary": "Maurice Mazahreh is not interested in buying and was trying to reach a partner instead."
+  },
+  "C05MP6K9RNV:1790701722.994869": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "oltqnH6DJlvkhk5YjB7M",
+    "match_confidence": "high",
+    "summary": "Buyer Stephen Cooper is not interested in purchasing and the call ended quickly with no further discussion."
+  },
+  "C05MP6K9RNV:1790701723.346929": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "oltqnH6DJlvkhk5YjB7M",
+    "match_confidence": "high",
+    "summary": "Buyer call completed with Stephen Cooper who provided buy box areas and is ready to be connected with partner Adam."
+  },
   "C06MM4DQZ28:1777658714.176449": {
     "field_updates": {
       "asking_price": 784000,
