@@ -1771,6 +1771,17 @@
     "match_confidence": "high",
     "summary": "Buyer call completed with Stephen Cooper who provided buy box areas and is ready to be connected with partner Adam."
   },
+  "C05MP6K9RNV:1790801958.774239": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "sm6wBBcAoUIr4VPWm3Ns",
+    "match_confidence": "high",
+    "summary": "Buyer interested in property up to $550k but has cash flow concerns due to occupancy; waiting for pictures and address."
+  },
   "C06MM4DQZ28:1777658714.176449": {
     "field_updates": {
       "asking_price": 784000,
