@@ -1782,6 +1782,17 @@
     "match_confidence": "high",
     "summary": "Buyer interested in property up to $550k but has cash flow concerns due to occupancy; waiting for pictures and address."
   },
+  "C05MP6K9RNV:1790867588.479659": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "Csh2wBc8idwT4Bu6qwA9",
+    "match_confidence": "high",
+    "summary": "Buyer can offer $100,000, close in 14 days, and is okay with full gut rehab properties."
+  },
   "C06MM4DQZ28:1777658714.176449": {
     "field_updates": {
       "asking_price": 784000,
