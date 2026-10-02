@@ -1793,6 +1793,39 @@
     "match_confidence": "high",
     "summary": "Buyer can offer $100,000, close in 14 days, and is okay with full gut rehab properties."
   },
+  "C05MP6K9RNV:1790956779.408289": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "6CRBQZ9XuFdIni666lo0",
+    "match_confidence": "high",
+    "summary": "Buyer is not interested in purchasing at this time and has been marked as 'Not buying' status."
+  },
+  "C05MP6K9RNV:1790960802.806679": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": "ASAP"
+    },
+    "match_cid": "qBOUDXRv12upBOEAHZkc",
+    "match_confidence": "high",
+    "summary": "Buyer call with Taseeme Douglas who is ready now and looking for properties in Newark and Trenton for their clients."
+  },
+  "C05MP6K9RNV:1790968983.687949": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "NW60mtftHcMG8P4IaDUg",
+    "match_confidence": "high",
+    "summary": "New buyer Anna Blowr made initial contact but buy box details not yet captured."
+  },
   "C06MM4DQZ28:1777658714.176449": {
     "field_updates": {
       "asking_price": 784000,
