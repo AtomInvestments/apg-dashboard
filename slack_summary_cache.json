@@ -2068,6 +2068,39 @@
     "match_confidence": "high",
     "summary": "Buyer interested in multi-family in Trenton and single-family in Philadelphia, seeking medium rehab properties up to $500k, ready to purchase now depending on the deal."
   },
+  "C05MP6K9RNV:1791042776.985969": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "6CRBQZ9XuFdIni666lo0",
+    "match_confidence": "high",
+    "summary": "Buyer call with Lorraine English regarding a property offer; buyer inquiring about cash offer but no clear purchase interest expressed yet."
+  },
+  "C05MP6K9RNV:1791045576.504089": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "6CRBQZ9XuFdIni666lo0",
+    "match_confidence": "high",
+    "summary": "Buyer call with Lorraine English (59 seconds) showed no specific interest or criteria, but follow-up needed on an offer."
+  },
+  "C05MP6K9RNV:1791046750.950669": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": "ASAP"
+    },
+    "match_cid": "6CRBQZ9XuFdIni666lo0",
+    "match_confidence": "high",
+    "summary": "Buyer call with Lorraine English who is ready now, interested, received property access code, and knows how to present at the property."
+  },
   "C06MM4DQZ28:1777658714.176449": {
     "field_updates": {
       "asking_price": 784000,
