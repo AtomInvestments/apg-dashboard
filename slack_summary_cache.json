@@ -3168,6 +3168,215 @@
     "match_confidence": "high",
     "summary": "Joseph Ancil (buyer) asked to be kept posted on available properties and has not received a response in 15 minutes."
   },
+  "C05MP6K9RNV:1791288029.929749": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "vKRlPOmgZ2bgp34DURv9",
+    "match_confidence": "high",
+    "summary": "Mido sent Joey Fang an auto-answer message listing three available properties: a Burlington townhouse (4bed/1bath), a Newark 3-family (all rented), and Port Murray land (1.48 acres with barns)."
+  },
+  "C05MP6K9RNV:1791288183.063519": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "vwSlVxhC6KSnXnoeTy6H",
+    "match_confidence": "high",
+    "summary": "Mido sent Raj details on three properties: Burlington townhouse at $140k OBO, Newark 3-unit rental at $550k OBO, and Port Murray land with barns."
+  },
+  "C05MP6K9RNV:1791288336.212469": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "ucbJGXvPrrLOSxfYh0GZ",
+    "match_confidence": "high",
+    "summary": "Auto-answer message sent to Gurvinder Grewal listing three available properties: Burlington townhouse (4bed/1bath), Newark 3-family (all rented), and Port Murray land (1.48 acres with barns)."
+  },
+  "C05MP6K9RNV:1791288489.065889": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "vRmr6j9BmO8KOlWb4H74",
+    "match_confidence": "high",
+    "summary": "Auto-answer message was re-sent after initial attempt hit T-Mobile daily cap, indicating ongoing communication attempt."
+  },
+  "C05MP6K9RNV:1791288553.395689": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "ucbJGXvPrrLOSxfYh0GZ",
+    "match_confidence": "high",
+    "summary": "Gurvinder Grewal responded asking for more details, and was sent information about three available properties (Burlington townhouse, Newark 3-family, Port Murray land)."
+  },
+  "C05MP6K9RNV:1791288706.483239": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "JtVnJszdv1RVO1qzvYJG",
+    "match_confidence": "high",
+    "summary": "Auto-answer message was re-sent to William after initial attempt hit T-Mobile daily cap."
+  },
+  "C05MP6K9RNV:1791288819.729659": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "ucbJGXvPrrLOSxfYh0GZ",
+    "match_confidence": "high",
+    "summary": "Team provided Burlington property address (210 West Union St, Burlington NJ 08016) via SMS to lead."
+  },
+  "C05MP6K9RNV:1791288998.724469": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": "ASAP"
+    },
+    "match_cid": "ucbJGXvPrrLOSxfYh0GZ",
+    "match_confidence": "high",
+    "summary": "Gurvinder Grewal inquired about when they can see the property, triggering a manual response need due to daily auto-answer limit."
+  },
+  "C05MP6K9RNV:1791291608.124429": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "ucbJGXvPrrLOSxfYh0GZ",
+    "match_confidence": "high",
+    "summary": "Gurvinder Grewal requested the address for a 1.48 acres lot and is marked as a buyer with an unanswered 31-minute call."
+  },
+  "C05MP6K9RNV:1791294773.596959": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "sm6wBBcAoUIr4VPWm3Ns",
+    "match_confidence": "high",
+    "summary": "Jeffrey Gunn sent a message with his email address and requires a manual reply."
+  },
+  "C05MP6K9RNV:1791297801.534679": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "6CRBQZ9XuFdIni666lo0",
+    "match_confidence": "high",
+    "summary": "Buyer Lorraine English called to follow up on a property showing scheduled for today at 3pm in Burlington and is still engaged in the buying process."
+  },
+  "C05MP6K9RNV:1791298455.263819": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "ucbJGXvPrrLOSxfYh0GZ",
+    "match_confidence": "high",
+    "summary": "Gurvinder Grewal is a ready buyer looking for properties in Burlington and Mercer County up to $250K and can close in one week."
+  },
+  "C05MP6K9RNV:1791299886.128699": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "ZN3r31Wab2Wak3xwdKfb",
+    "match_confidence": "high",
+    "summary": "Buyer la-Quannda Terry responded positively to off-market opportunities, shared email, and requested details; follow-up scheduled for Monday after karate practice."
+  },
+  "C05MP6K9RNV:1791299889.270049": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "ZN3r31Wab2Wak3xwdKfb",
+    "match_confidence": "high",
+    "summary": "La-Quannda Terry requested details and was sent info about three available properties: Burlington townhouse (4 bed/1 bath), Newark 3-family (all rented), and Port Murray land (1.48 acres with barns)."
+  },
+  "C05MP6K9RNV:1791299900.569129": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "duKQS2Pah4xgMTzzNGzy",
+    "match_confidence": "high",
+    "summary": "John Bowyer is an active cash buyer in NJ interested in receiving details about an off-market Burlington investment opportunity."
+  },
+  "C05MP6K9RNV:1791300062.630219": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "duKQS2Pah4xgMTzzNGzy",
+    "match_confidence": "high",
+    "summary": "John Bowyer inquired about Burlington property details and was sent info on 210 West Union St asking $140k OBO."
+  },
+  "C05MP6K9RNV:1791300188.763849": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "duKQS2Pah4xgMTzzNGzy",
+    "match_confidence": "high",
+    "summary": "Email communication to John Bowyer failed due to a technical error in the messaging system."
+  },
+  "C05MP6K9RNV:1791300191.970479": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "duKQS2Pah4xgMTzzNGzy",
+    "match_confidence": "high",
+    "summary": "John Bowyer (buyer) requested photos for the Burlington property and needs a reply."
+  },
+  "C05MP6K9RNV:1791303000.395029": {
+    "field_updates": {
+      "asking_price": 475000,
+      "motivation": "Ready now buyer looking for single family properties",
+      "reason_for_selling": null,
+      "timeline": "ASAP"
+    },
+    "match_cid": "NN2MFOwT9dhGhFAQIe5a",
+    "match_confidence": "high",
+    "summary": "Buyer Shlomo Mueller is ready now and looking to offer around $475k for single family properties in Jersey and Burlington areas."
+  },
   "C06MM4DQZ28:1777658714.176449": {
     "field_updates": {
       "asking_price": 784000,
