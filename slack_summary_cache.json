@@ -4257,6 +4257,39 @@
     "match_confidence": "none",
     "summary": "Vincent Scott is a buyer looking for off-market residential properties under 500k in NJ, willing to pay around 50% ARV for flips."
   },
+  "C05MP6K9RNV:1791324209.438279": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": null,
+    "match_confidence": "none",
+    "summary": "Auto-answered message shows Vincent Scott inquiring about rental properties in Trenton and Burlington, not a seller lead."
+  },
+  "C05MP6K9RNV:1791324370.599649": {
+    "field_updates": {
+      "asking_price": 140000,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": "SGlrqrXGBUup0ZfRFS23",
+    "match_confidence": "high",
+    "summary": "Vincent Scott received property details for two listings: a Trenton two-family generating $2,800/mo rent and a Burlington townhouse at 210 West Union St asking $140,000 OBO."
+  },
+  "C05MP6K9RNV:1791331168.286329": {
+    "field_updates": {
+      "asking_price": null,
+      "motivation": null,
+      "reason_for_selling": null,
+      "timeline": null
+    },
+    "match_cid": null,
+    "match_confidence": "none",
+    "summary": "Vincent Scott is asking about the sender's inventory holding strategy and bottom line pricing."
+  },
   "C06MM4DQZ28:1777658714.176449": {
     "field_updates": {
       "asking_price": 784000,
